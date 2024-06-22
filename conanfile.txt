@@ -1,0 +1,12 @@
+[requires]
+asio-grpc/2.9.2
+grpc/1.54.3
+protobuf/3.21.12
+gtest/1.14.0
+doctest/2.4.11
+
+[generators]
+CMakeDeps
+CMakeToolchain
+[layout]
+cmake_layout
